@@ -51,4 +51,4 @@ Link para vídeo de apresentação do projeto:
 
 # Autores
 * Álysson Soares
-* Luiza Gandolfi 
+* Luiza Gandolfi Barioto
